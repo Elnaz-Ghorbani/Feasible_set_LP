@@ -11,4 +11,6 @@ The objective function is defined with the coefficients c. The problem is set up
 ## Constraints
 The constraints are defined by the matrix A and the vector b
 ## Visualization
-A 3D scatter plot is created using plotly to visualize the feasible region and the optimal solution:
+A 3D scatter plot is created using plotly to visualize the feasible region and the optimal solution
+## Results
+path/to/Result.png
