@@ -13,4 +13,4 @@ The constraints are defined by the matrix A and the vector b
 ## Visualization
 A 3D scatter plot is created using plotly to visualize the feasible region and the optimal solution
 ## Results
-Result.png
+![Result](Result.png)
