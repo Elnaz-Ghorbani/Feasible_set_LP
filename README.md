@@ -1,5 +1,7 @@
-# Linear Programming Visualization of Feasible Polyhedron
+# University Projects, Semester 6:
+Linear programming course, University of Tehran Jun 2024
 
+# Linear Programming Visualization of Feasible Polyhedron
 This project is designed to help students understand the concept of the feasible set in Linear Programming (LP). The code solves a linear programming problem and visualizes the feasible region along with the optimal solution using a 3D scatter plot. This project was created as part of a course activity (CA) for the Linear Programming course taught by Dr. Amin Ghodousian.
 
 # Introduction
